@@ -14,6 +14,7 @@ namespace MiPrimerPrograma
     {
         public Form1()
         {
+            //Agrego comentario al archivo
             InitializeComponent();
         }
 
